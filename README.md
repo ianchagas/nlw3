@@ -1,2 +1,4 @@
 # nlw3
-NLW #3 - Next Level Weekend Rocketseet - Instrutor Mayk Brito
+Next Level Weekend #3 Rocketseet
+
+Projeto desenvolvido durante a semana NLW3
